@@ -9,6 +9,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-skill-da7756.svg)](https://docs.claude.com/en/docs/claude-code/overview)
 
+**In English.** Agranovsky is a fact-checker for **Russian-language text**, built for drafts that may contain LLM hallucinations. It extracts every checkable claim — numbers, quotes, dates, laws, links — and verifies each against real sources using Claude's web search and web fetch tools. A claim is marked confirmed or refuted only with an opened page and a verbatim quote; without proof it is treated as made up. It reads public web pages only and stores nothing.
+
+
 ---
 
 ## Зачем

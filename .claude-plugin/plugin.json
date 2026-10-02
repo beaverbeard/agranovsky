@@ -1,8 +1,8 @@
 {
   "name": "agranovsky",
   "displayName": "Аграновский",
-  "version": "1.0.0",
-  "description": "Фактчекер русского текста: проверяет числа, цитаты, даты, законы и ссылки по реальным источникам через веб-поиск. Нет пруфа — значит выдумано.",
+  "version": "1.0.1",
+  "description": "Fact-checker for Russian-language text with LLM hallucinations: verifies numbers, quotes, dates, laws and links against real sources via web search. No proof — it's made up.",
   "author": {
     "name": "Rodion Scryabin (beaverbeard)",
     "url": "https://github.com/beaverbeard"
