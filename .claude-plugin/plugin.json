@@ -1,7 +1,7 @@
 {
   "name": "agranovsky",
   "displayName": "Аграновский",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Fact-checker for Russian-language text with LLM hallucinations: verifies numbers, quotes, dates, laws and links against real sources via web search. No proof — it's made up.",
   "author": {
     "name": "Rodion Scryabin (beaverbeard)",
