@@ -112,13 +112,12 @@ Learn to give clearer briefs, retain your own voice and spot invented details. T
 
 ## The person behind the name
 
-<img src="assets/people/agranovsky.jpg" alt="Anatoly Abramovich Agranovsky" align="right" width="128" hspace="12">
-
-**Anatoly Abramovich Agranovsky (1922–1984)**
-
-Anatoly Agranovsky was an Izvestia journalist and feature writer who investigated a story in depth before telling it. In Ten Years Later, he returned to ophthalmologist Svyatoslav Fyodorov’s work to examine what had happened since his earlier article. Journalism needs more than a convincing account: that account must stand up to reality. We named the fact-checking skill after Agranovsky because it looks for evidence behind claims, checks figures and quotations, and clearly identifies anything it could not verify.
-
-<br clear="all">
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/people/biography-en-dark-mobile.png">
+  <source media="(max-width: 600px)" srcset="assets/people/biography-en-light-mobile.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/people/biography-en-dark.png">
+  <img src="assets/people/biography-en-light.png" alt="Anatoly Abramovich Agranovsky (1922–1984). Anatoly Agranovsky was an Izvestia journalist and feature writer who investigated a story in depth before telling it. In Ten Years Later, he returned to ophthalmologist Svyatoslav Fyodorov’s work to examine what had happened since his earlier article. Journalism needs more than a convincing account: that account must stand up to reality. We named the fact-checking skill after Agranovsky because it looks for evidence behind claims, checks figures and quotations, and clearly identifies anything it could not verify." width="1280">
+</picture>
 
 Photo: unknown photographer · [source and terms](assets/people/CREDITS.md).
 

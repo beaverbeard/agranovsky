@@ -7,7 +7,7 @@
 - Author: Unknown author
 - Date: before 1941
 - License / status as stated by the source: Public domain
-- Changes: none. The source image has not been edited.
+- Portrait changes: none. The card adds typography and layout around the original photograph.
 - SHA-256: `c00c935adaf8f3d3f1a4fd19ff90e9afb6d5085c10de3ea13bd85f494078e14a`
 
 The repository’s MIT license does not replace the photograph’s separate terms.

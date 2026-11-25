@@ -18,5 +18,97 @@
   "rights_status": "commons_public_domain_label",
   "changes": "none; original file downloaded byte-for-byte",
   "http_status": 200,
-  "rights_note": "Commons labels this Public domain; its file page requests an additional US public-domain tag. No independent global clearance claimed."
+  "rights_note": "Commons labels this Public domain; its file page requests an additional US public-domain tag. No independent global clearance claimed.",
+  "card_renders": [
+    {
+      "slug": "agranovsky",
+      "lang": "ru",
+      "layout": "wide",
+      "theme": "light",
+      "file": "biography-ru-light.png",
+      "width": 1280,
+      "height": 630,
+      "sha256": "a64d34e23deabbef74697522288bf5c6a2f5bcace4c7dfbc389892c9cdfc1544",
+      "portrait_sha256": "c00c935adaf8f3d3f1a4fd19ff90e9afb6d5085c10de3ea13bd85f494078e14a"
+    },
+    {
+      "slug": "agranovsky",
+      "lang": "ru",
+      "layout": "wide",
+      "theme": "dark",
+      "file": "biography-ru-dark.png",
+      "width": 1280,
+      "height": 630,
+      "sha256": "e9348f5f5151e7e80852841c01ac89f9e9438d95fce157b73ee31e00e1cd984d",
+      "portrait_sha256": "c00c935adaf8f3d3f1a4fd19ff90e9afb6d5085c10de3ea13bd85f494078e14a"
+    },
+    {
+      "slug": "agranovsky",
+      "lang": "ru",
+      "layout": "mobile",
+      "theme": "light",
+      "file": "biography-ru-light-mobile.png",
+      "width": 840,
+      "height": 1114,
+      "sha256": "7d2cbdc198a609d6006016275fb9bf92a66e979debaad1fbb48ed7892fbdf8f9",
+      "portrait_sha256": "c00c935adaf8f3d3f1a4fd19ff90e9afb6d5085c10de3ea13bd85f494078e14a"
+    },
+    {
+      "slug": "agranovsky",
+      "lang": "ru",
+      "layout": "mobile",
+      "theme": "dark",
+      "file": "biography-ru-dark-mobile.png",
+      "width": 840,
+      "height": 1114,
+      "sha256": "6ecf7ba1937f2e9723703e797a7e556f2d339c2fb01bb006c4b60d6d47457177",
+      "portrait_sha256": "c00c935adaf8f3d3f1a4fd19ff90e9afb6d5085c10de3ea13bd85f494078e14a"
+    },
+    {
+      "slug": "agranovsky",
+      "lang": "en",
+      "layout": "wide",
+      "theme": "light",
+      "file": "biography-en-light.png",
+      "width": 1280,
+      "height": 588,
+      "sha256": "987098f1f8305ae7ac0b3146ba391a5356c32cae3760720f3df90ace49328dc4",
+      "portrait_sha256": "c00c935adaf8f3d3f1a4fd19ff90e9afb6d5085c10de3ea13bd85f494078e14a"
+    },
+    {
+      "slug": "agranovsky",
+      "lang": "en",
+      "layout": "wide",
+      "theme": "dark",
+      "file": "biography-en-dark.png",
+      "width": 1280,
+      "height": 588,
+      "sha256": "3aaa5897a646c0cde3540ad30db0dde75f8627b9623df3ff079af4b607e4d26b",
+      "portrait_sha256": "c00c935adaf8f3d3f1a4fd19ff90e9afb6d5085c10de3ea13bd85f494078e14a"
+    },
+    {
+      "slug": "agranovsky",
+      "lang": "en",
+      "layout": "mobile",
+      "theme": "light",
+      "file": "biography-en-light-mobile.png",
+      "width": 840,
+      "height": 1008,
+      "sha256": "7c9c3218dc2994b22ffa70051e22ce59d484030f67d6bd9ba540303e70fcc402",
+      "portrait_sha256": "c00c935adaf8f3d3f1a4fd19ff90e9afb6d5085c10de3ea13bd85f494078e14a"
+    },
+    {
+      "slug": "agranovsky",
+      "lang": "en",
+      "layout": "mobile",
+      "theme": "dark",
+      "file": "biography-en-dark-mobile.png",
+      "width": 840,
+      "height": 1008,
+      "sha256": "cb3b57794dfc2d2ec193cc1749a8e503ad8a82df5caddcb561b6648a665b008e",
+      "portrait_sha256": "c00c935adaf8f3d3f1a4fd19ff90e9afb6d5085c10de3ea13bd85f494078e14a"
+    }
+  ],
+  "card_layout": "separate portrait and text blocks; mobile paragraph below the portrait/name row",
+  "card_font": "Onest Regular/Bold"
 }
