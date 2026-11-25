@@ -1,0 +1,22 @@
+{
+  "file": "portraits/agranovsky.jpg",
+  "sha256": "c00c935adaf8f3d3f1a4fd19ff90e9afb6d5085c10de3ea13bd85f494078e14a",
+  "dimensions": [
+    256,
+    236
+  ],
+  "media_type": "image/jpeg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Agranovskiy_anatoliy.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Agranovskiy_anatoliy.jpg",
+  "source_metadata": "research/commons-agranovsky.json",
+  "title": "File:Agranovskiy anatoliy.jpg",
+  "author": "Unknown author",
+  "date": "before 1941",
+  "credit": "http://forum.17marta.ru/index.php?topic=2103.0",
+  "license": "Public domain",
+  "license_url": null,
+  "rights_status": "commons_public_domain_label",
+  "changes": "none; original file downloaded byte-for-byte",
+  "http_status": 200,
+  "rights_note": "Commons labels this Public domain; its file page requests an additional US public-domain tag. No independent global clearance claimed."
+}
