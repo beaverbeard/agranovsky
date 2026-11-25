@@ -1,13 +1,13 @@
 {
   "name": "agranovsky",
   "displayName": "Аграновский",
-  "version": "1.0.4",
-  "description": "Fact-checker for Russian-language text with LLM hallucinations: verifies numbers, quotes, dates, laws and links against real sources via web search. No proof — it's made up.",
+  "version": "1.0.5",
+  "description": "Для русского языка · For Russian. Скилл-фактчекер для текстов. Проверяет цифры, даты, цитаты и ссылки, показывает источники. / A fact-checking skill for texts. Checks numbers, dates, quotes and links, and shows sources.",
   "author": {
     "name": "Rodion Scryabin (beaverbeard)",
     "url": "https://github.com/beaverbeard"
   },
-  "homepage": "https://github.com/beaverbeard/agranovsky",
+  "homepage": "https://redaktozavr.ru/rAIdactor?utm_source=skills",
   "repository": "https://github.com/beaverbeard/agranovsky",
   "license": "MIT",
   "keywords": [
@@ -18,5 +18,7 @@
   ],
   "skills": [
     "./.claude/skills/"
-  ]
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://github.com/beaverbeard/agranovsky"
 }

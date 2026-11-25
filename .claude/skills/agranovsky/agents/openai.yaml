@@ -1,0 +1,6 @@
+interface:
+  display_name: "Аграновский"
+  short_description: "Проверяет факты в текстах и показывает источники"
+  icon_small: "./assets/brand/icon-agranovsky.svg"
+  icon_large: "./assets/brand/icon-agranovsky.png"
+  brand_color: "#EE402C"
